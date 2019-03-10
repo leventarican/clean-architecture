@@ -1,0 +1,7 @@
+# blacklist
+/*
+
+# whitelist
+!.gitignore
+!README.md
+!src/
