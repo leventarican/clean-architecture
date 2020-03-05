@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dff50775-63af-43c7-b720-cfc240e0ab59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yj4hzhQa0gz3VG3Rd5PCyfrwWh" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="clean-architecture" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.github.leventarican.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583443021910">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="524" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583443021910" />
+    <state x="839" y="270" width="442" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1583447160141">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="839" y="270" width="442" height="590" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1583447160141" />
+    <state x="798" y="300" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583446752265">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="798" y="300" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583446752265" />
+    <state width="1519" height="274" key="GridCell.Tab.0.bottom" timestamp="1583448853575">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1519" height="274" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1583448853575" />
+    <state width="1519" height="274" key="GridCell.Tab.0.center" timestamp="1583448853575">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1519" height="274" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1583448853575" />
+    <state width="1519" height="274" key="GridCell.Tab.0.left" timestamp="1583448853574">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1519" height="274" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1583448853574" />
+    <state width="1519" height="274" key="GridCell.Tab.0.right" timestamp="1583448853575">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1519" height="274" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583448853575" />
+    <state x="555" y="186" width="1022" height="737" key="SettingsEditor" timestamp="1583442892674">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="555" y="186" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1583442892674" />
+  </component>
+</project>
